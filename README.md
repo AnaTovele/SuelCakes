@@ -125,5 +125,5 @@ Este projeto está livre para estudo, modificação e uso pessoal.
 ---
 
 ## Autor
-**Suel de Jesus**  
+**Ana Rafica Tovele**  
 
